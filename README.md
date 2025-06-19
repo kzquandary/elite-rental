@@ -24,9 +24,6 @@ EliteRental adalah platform sewa mobil premium berbasis web yang dibangun dengan
 - **Embla Carousel** – Komponen carousel ringan
 - **Recharts** – Visualisasi data (admin dashboard)
 
----
-
----
 
 ## 🚀 Cara Menjalankan
 
